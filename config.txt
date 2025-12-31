@@ -1,0 +1,2 @@
+str_hash_size 11
+id_hash_size 11
